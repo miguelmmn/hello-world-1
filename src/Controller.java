@@ -1,2 +1,2 @@
-package rama2
-Controller2
+package rama1
+Controller

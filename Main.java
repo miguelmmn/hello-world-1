@@ -1,2 +1,2 @@
-package rama2
-Main2
+package rama1
+Main
